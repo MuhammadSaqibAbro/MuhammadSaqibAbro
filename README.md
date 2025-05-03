@@ -5,6 +5,36 @@
 I'm a **Java Developer** specializing in **backend development** with **Spring Boot**. Passionate about building efficient, scalable, and maintainable systems, I continuously explore new technologies and aim to deliver high-quality solutions for real-world problems.
 
 ---
+## 💼 Professional Experience
+
+### Freelance Java Developer — 75+ Projects Completed  
+📍 Platform: [Fiverr Profile](https://www.fiverr.com/saqiabro07?public_mode=true)
+
+- Successfully completed **75+ Java-based projects** for clients worldwide.
+- Expertise in **Spring Boot**, **JSP/Servlets**, **React.js**, **MySQL**, and **RESTful API development**.
+- Focused on delivering robust, scalable, and well-documented solutions.
+
+#### 🧩 Key Projects
+
+- **Room Booking Portal**  
+  Developed a RESTful API using Spring Boot and MySQL for managing room bookings. Included secure authentication, CRUD operations, and availability tracking.
+
+- **Event Ticket Booking System**  
+  Built a complete **full-stack application** using Spring Boot (REST API) and React.js. Features included event browsing, seat selection, real-time booking, and user login.
+
+- **Inventory Management System**  
+  Designed and implemented a REST API using Spring Boot and MySQL. Supported product listings, stock updates, and purchase history with secure admin access.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Systems Engineering**  
+Mehran University of Engineering and Technology  
+📅 *2021 – 2024*
+
+---
+
 
 ### 🔭 Currently Working On:
 - **Developing RESTful APIs** using **Spring Boot** and **Hibernate** in real-world projects.
@@ -83,3 +113,11 @@ I'm a **Java Developer** specializing in **backend development** with **Spring B
 ## 📈 **Top Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaqibAbro&layout=compact&theme=radical)
+---
+## 🏆 Certifications
+
+- Java for Beginners – *Udemy*  
+- Spring Framework with Spring Boot – *Udemy*  
+- SQL (Basic) – *HackerRank*
+
+---
