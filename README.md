@@ -7,10 +7,10 @@ I'm a **Java Developer** specializing in **backend development** with **Spring B
 ---
 ## 💼 Professional Experience
 
-### Freelance Java Developer — 75+ Projects Completed  
+### Freelance Java Developer — 65+ Projects Completed  
 📍 Platform: [Fiverr Profile](https://www.fiverr.com/saqiabro07?public_mode=true)
 
-- Successfully completed **75+ Java-based projects** for clients worldwide.
+- Successfully completed **65+ Java-based projects** for clients worldwide.
 - Expertise in **Spring Boot**, **JSP/Servlets**, **React.js**, **MySQL**, and **RESTful API development**.
 - Focused on delivering robust, scalable, and well-documented solutions.
 
